@@ -1,6 +1,7 @@
 # Self project to built an AI to train a self driving car
 
-What does my project DO??🤔🤔.
+What does my project DO??🤔🤔
+
 This project is to create a fun game to train an AI model of a self driving-car to travel a round trip between 2 point in my route with minimum losses. 
 * First, we will build the environment containing the map, the car and all the features that go with it.
 * Then, we will build the AI, which will be the Deep Q-Learning model. 

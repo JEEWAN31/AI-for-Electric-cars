@@ -9,6 +9,6 @@ This project is to create a fun game to train an AI model of a self driving-car 
  
 # Resources of this project
 ______________________________________________________________________________________________________________________________________________________
-https://docs.google.com/document/d/1tuqZVDI7hLM5jHx8se2AB26G0qIXZ3WgKPw293D7IcI/edit
+https://docs.google.com/document/d/1q_9Atx-oy4_Myk-gt7Md2kW9ohOvk1l8aNyf-SH3nlY/edit?usp=sharing
 
 https://www.udemy.com/course/artificial-intelligence-az/learn/lecture/7163894#questions
